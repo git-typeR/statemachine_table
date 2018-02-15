@@ -1,14 +1,9 @@
 # statemachine_table
 
-# Awesome-name
-
 ![Badge Status](https://ci-as-a-service)
 
-OverviewOverviewOverview
+This is a typical state machine implementation in C by using table.
 
 ## Description
 
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
 
