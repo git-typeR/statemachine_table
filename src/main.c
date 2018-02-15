@@ -1,10 +1,18 @@
 #include <stdio.h>
 #include "state.h"
 
+/**
+* \brief 
+* \author TypeR
+* \version 1.0.0
+* \date 2017-
+* \warning As this program is being developed, the specification may change.
+*/
+
+/** file */
 
 
 EVENT_T get_new_event(void);
-
 
 
 int main(void)
