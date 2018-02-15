@@ -37,13 +37,13 @@ concrete table
  WAIT    |    INIT        |    ACTIVE
  ACTIVE  |    WAIT        |    ACTIVE
 
+
 function applied to the table
          |    STOP        |    START
 ---------|---------------------------------
  INIT    |  action_s1_e1  |  action_s1_e2
  WAIT    |  action_s2_e1  |  action_s2_e2
  ACTIVE  |  action_s3_e1  |  action_s3_e2
-
 
 */
 
